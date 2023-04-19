@@ -1,5 +1,9 @@
-# Regression-Prediction-of-Solar
-I'm predict Solar Dataset using Simple Linear Regression:
+LINEAR REGRESSION:
+   Linear regression is a statistical method for modeling relationships between a dependent variable with a given set of independent variables.
+   Simple linear regression is an approach for predicting a response using a single feature.
+   In order to provide a basic understanding of linear regression, we start with the most basic version of linear regression, i.e. Simple linear regression. 
+# REGRESSION-PREDICTION-OF-SOLAR:
+   I'm predict Solar Dataset using Simple Linear Regression:
 START:
    I get dependent variable is Temperature columns
    and independent variable is Humidity columns.
